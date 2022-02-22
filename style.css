@@ -1,0 +1,26 @@
+
+
+
+
+.title {
+    border: rgb(54, 5, 5) 6px;
+    border-style: solid;
+    padding: 40px 25px ;
+    border-radius: 30px;
+    background-color: rgba(191, 243, 208, 0.966);
+    font-size: 30px;
+    font-family: cursive;
+    color:rgb(0, 0, 0);
+}
+
+body {
+    background-color: azure;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+ol {
+    text-align: left;
+}
